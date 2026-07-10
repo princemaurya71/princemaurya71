@@ -111,9 +111,4 @@ src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
----
-
-# 👀 Visitors
-
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
 
