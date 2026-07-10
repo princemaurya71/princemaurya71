@@ -97,43 +97,13 @@ src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github
 
 ---
 
-# 🏆 GitHub Trophy
-
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&margin-w=10)
-
----
-
 # 🚀 Featured Projects
-
-⭐ AI Chatbot
-
-⭐ LifeScan QR
 
 ⭐ Portfolio Website
 
-⭐ Expense Tracker
+⭐ Weather SkyCast
 
-⭐ MERN Authentication
-
-⭐ Weather App
-
----
-
-# 🌱 Currently Learning
-
-✔ React
-
-✔ Node.js
-
-✔ Express.js
-
-✔ MongoDB
-
-✔ AI APIs
-
-✔ Next.js
-
-✔ TypeScript
+⭐ File Transfer
 
 ---
 
@@ -147,14 +117,3 @@ src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github
 
 ![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue)
 
----
-
-# 🤝 Connect With Me
-
-LinkedIn
-
-Portfolio
-
-Email
-
-Twitter
