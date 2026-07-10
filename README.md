@@ -94,7 +94,7 @@ src="https://raw.githubusercontent.com/princemaurya71/princemaurya71/output/gith
 
 # 📈 Activity Graph
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
+![](https://github-readme-activity-graph.vercel.app/graph?username=princemaurya71&theme=tokyo-night)
 
 ---
 
