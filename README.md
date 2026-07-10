@@ -84,10 +84,10 @@ Building real-world applications with modern web technologies.
 
 <picture>
 <source media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/princemaurya71/princemaurya71/output/github-contribution-grid-snake-dark.svg">
+srcset="https://raw.githubusercontent.com/princemaurya71/output/github-contribution-grid-snake-dark.svg">
 
 <img alt="snake"
-src="https://raw.githubusercontent.com/princemaurya71/princemaurya71/output/github-contribution-grid-snake.svg">
+src="https://raw.githubusercontent.com/princemaurya71/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
