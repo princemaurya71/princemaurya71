@@ -83,7 +83,7 @@ Building real-world applications with modern web technologies.
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/princemaurya71/princemaurya71/output/ocean.gif" alt="Snake Animation">
+  <img src="https://raw.githubusercontent.com/princemaurya71/princemaurya71/output/github-contribution-grid-snake-dark.svg">
 </p>
 
 ---
