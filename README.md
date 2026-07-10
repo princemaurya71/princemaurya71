@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Prince Maurya</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06B6D4,100:4F46E5"/>
+<!-- <h1 align="center">Hi 👋, I'm Prince Maurya</h1> -->
 
 <h3 align="center">
 🚀 Full Stack Developer • MERN Stack Developer • AI Enthusiast
