@@ -1,5 +1,5 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4F46E5,100:06B6D4&text=Prince%20Maurya&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20AI%20Enthusiast&descAlignY=58"/>
-<!-- <h1 align="center">Hi 👋, I'm Prince Maurya</h1> -->
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4F46E5,100:06B6D4&text=Prince%20Maurya&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20%7C%20AI%20Enthusiast&descAlignY=58"/> -->
+<h1 align="center">Hi 👋, I'm Prince Maurya</h1>
 
 <h3 align="center">
 🚀 Full Stack Developer • MERN Stack Developer • AI Enthusiast
@@ -84,10 +84,10 @@ Building real-world applications with modern web technologies.
 
 <picture>
 <source media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg">
+srcset="https://raw.githubusercontent.com/princemaurya71/princemaurya71/output/github-contribution-grid-snake-dark.svg">
 
 <img alt="snake"
-src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg">
+src="https://raw.githubusercontent.com/princemaurya71/princemaurya71/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
