@@ -72,11 +72,11 @@ Building real-world applications with modern web technologies.
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=princemaurya71&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=princemaurya71&layout=compact&theme=tokyonight)
 
-![](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+![](https://streak-stats.demolab.com?user=princemaurya71&theme=tokyonight)
 
 ---
 
