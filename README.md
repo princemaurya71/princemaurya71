@@ -18,7 +18,6 @@ Building real-world applications with modern web technologies.
 - 🤖 Exploring Artificial Intelligence
 - 🚀 Building Startup Projects
 - 💡 Love Problem Solving
-- 📚 Learning Every Day
 
 ---
 
@@ -111,4 +110,4 @@ Building real-world applications with modern web technologies.
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06B6D4,100:4F46E5"/>
+<!-- <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:06B6D4,100:4F46E5"/> -->
