@@ -98,8 +98,6 @@ Building real-world applications with modern web technologies.
 
 # 🚀 Featured Projects
 
-⭐ Portfolio Website
-
 ⭐ Weather SkyCast
 
 ⭐ File Transfer
