@@ -17,7 +17,6 @@ Building real-world applications with modern web technologies.
 - 🌱 Currently Learning MERN Stack
 - 🤖 Exploring Artificial Intelligence
 - 🚀 Building Startup Projects
-- 💡 Love Problem Solving
 
 ---
 
