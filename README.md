@@ -68,19 +68,6 @@ Building real-world applications with modern web technologies.
 
 ---
 
-# 📊 GitHub Stats
-
-<!-- GitHub Stats -->
-![](https://github-readme-stats.vercel.app/api?username=princemaurya71&show_icons=true&theme=tokyonight)
-
-<!-- Top Languages -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=princemaurya71&layout=compact&theme=tokyonight)
-
-<!-- GitHub Streak -->
-![](https://streak-stats.demolab.com?user=princemaurya71&theme=tokyonight)
-
----
-
 # 🐍 Contribution Snake
 
 <p align="center">
