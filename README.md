@@ -68,14 +68,6 @@ Building real-world applications with modern web technologies.
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/princemaurya71/princemaurya71/output/ocean.gif"/>
-</p>
-
----
-
 # 📈 Activity Graph
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=princemaurya71&theme=tokyo-night)
