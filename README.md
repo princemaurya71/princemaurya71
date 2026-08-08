@@ -70,7 +70,7 @@ Building real-world applications with modern web technologies.
 
 # 📈 Activity Graph
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=princemaurya71&theme=tokyo-night)
+![](https://github-readme-activity-graph.vercel.app/graph?username=itsprincecode&theme=tokyo-night)
 
 ---
 
