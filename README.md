@@ -16,7 +16,6 @@ Building real-world applications with modern web technologies.
 - 🎓 Final Year B.Sc IT Student
 - 🌱 Currently Learning MERN Stack
 - 🤖 Exploring Artificial Intelligence
-- 🚀 Building Startup Projects
 
 ---
 
