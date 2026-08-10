@@ -77,8 +77,6 @@ Building real-world applications with modern web technologies.
 
 ⭐ Weather SkyCast
 
-⭐ File Transfer
-
 ---
 
 # 💬 Random Dev Quote
